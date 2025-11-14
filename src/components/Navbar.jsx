@@ -185,7 +185,7 @@ const Navbar = () => {
                     {/* Footer */}
                     <div className="p-6 border-t border-gray-200 dark:border-gray-700">
                         <div className="text-center text-sm text-gray-500 dark:text-gray-400">
-                            © {currentYear()} Hizkia Siahaan. All rights reserved
+                            © {currentYear()} Tran Quang Hao - All Rights Reserved.
                         </div>
                     </div>
                 </div>

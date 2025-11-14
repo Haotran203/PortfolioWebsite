@@ -10,7 +10,8 @@ const aboutData = {
         { label: "Email", value: "quanghaotran303@gmail.com", icon: "bx bx-envelope" },
         { label: "Phone", value: "(+84) 396 079 303", icon: "bx bx-phone" },
         { label: "Education", value: "Vietnam - Korea University of ICT", icon: "bx bx-book" },
-        { label: "GPA", value: "2.91 / 4.00", icon: "bx bx-award" },
+        { label: "GPA", value: "2.96 / 4.00", icon: "bx bx-award" },
+        { label: "Experience", value: "3+ months UI/UX Designer at Lutech.ltd Da Nang", icon: "bx bx-briefcase" },
     ],
 
     resume: {

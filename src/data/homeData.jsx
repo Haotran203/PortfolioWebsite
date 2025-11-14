@@ -10,8 +10,8 @@ const homeData = {
   img: "/src/assets/hihi.png",
   buttons: [
     {
-      label: "Explore My Project",
-      href: "#",
+      label: "Explore My Portfolio",
+      href: "/public/Portfolio_Tranquanghao.pdf",
       type: "primary",
     },
     {
@@ -50,8 +50,8 @@ const homeData = {
   ],
   stats: [
     {
-      label: "Education",
-      value: "4+ Years",
+      label: "Experience",
+      value: "3+ Months",
       icon: "bx bx-briefcase",
     },
     {
@@ -66,7 +66,7 @@ const homeData = {
     },
     {
       label: "GPA",
-      value: "2.91 / 4.00",
+      value: "2.96 / 4.00",
       icon: "bx bx-award",
     },
   ],
